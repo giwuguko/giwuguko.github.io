@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://giwuguko.github.io/sitemap/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/LFD/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/lRS/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/qCa/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/MkF/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/cRr/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/olg/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/Ftu/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/sfJ/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/wlb/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/nyo/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/JUQ/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/OLD/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/toD/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/Irk/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/akP/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/pUr/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/RJb/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/KMg/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/kWT/sitemap_index.giwuguko
+Sitemap: https://giwuguko.github.io/QsJ/sitemap_index.giwuguko
